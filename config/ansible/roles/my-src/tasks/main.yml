@@ -1,1 +1,5 @@
-- debug: msg="No src environment tasks yet!"
+- name: Install homeshick
+  git: repo=git://github.com/andsens/homeshick.git dest=~/src/github.com/ansens/homeshick
+
+- name: Install rerun
+  git: repo=git://github.com/rerun/rerun.git dest=~/src/github.com/rerun/rerun
