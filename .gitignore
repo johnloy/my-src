@@ -1,7 +1,10 @@
 /*
 
-!.gitignore
+!config
+!docs
 !ansible
 !home
-!rerun
-!config
+!items
+!scripts
+!.gitignore
+!README.md
